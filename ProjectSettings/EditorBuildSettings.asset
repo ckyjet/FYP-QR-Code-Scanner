@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SG Playground Map.unity
+    guid: 6fb1a94ae638f4ce8b8ddb2bbffc47bf
+  - enabled: 1
     path: Assets/Scenes/QR Menu.unity
     guid: 206a5826351824cb7acec340f011ad4f
   - enabled: 1
